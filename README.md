@@ -1,1 +1,3 @@
-Pang hecho en el lenguaje Java inspirado en la serie Rick & Morty
+<b>Pang Rick Morty</b>
+
+Pang inspirado en la serie Rick & Morty
