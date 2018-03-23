@@ -1,3 +1,3 @@
-<b>Pang Rick Morty</b>
+# Pang Rick Morty
 
 Pang inspirado en la serie Rick & Morty
